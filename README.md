@@ -9,23 +9,23 @@ Uma landing page desenvolvida em **Vite**, **TailwindCSS** e **Shadcn** para pro
 - **Shadcn**: Componentes acessíveis para interfaces modernas.
 
 
-# 🚀 Como rodar o projeto
+## 🚀 Como rodar o projeto
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/altcomvis/lp-fernando-torres.git
+   git clone https://github.com/altcomvis/lp-curso-fernando-torres.git
 
 
-# 🌟 Funcionalidades
+## 🌟 Funcionalidades
 - Design responsivo.
 - Componentes acessíveis e reutilizáveis com Shadcn.
 - Estilização moderna com TailwindCSS.
 - Estrutura otimizada para carregamento rápido.
 
 
-# ✍️ Autor
+## ✍️ Autor
 - Allan Teixeira
 Desenvolvido como parte de uma solução moderna e eficiente para a promoção do curso "Adeus à Poupança e Segredos do Tesouro".
 
-# 📝 Licença
+## 📝 Licença
 Este projeto é de uso interno e não possui uma licença pública. Entre em contato para mais informações.
