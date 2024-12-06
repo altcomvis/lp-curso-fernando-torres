@@ -24,7 +24,7 @@ Uma landing page desenvolvida em **Vite**, **TailwindCSS** e **Shadcn** para pro
 
 
 ## ✍️ Autor
-- Allan Teixeira
+- Allan Teixeira<br>
 Desenvolvido como parte de uma solução moderna e eficiente para a promoção do curso "Adeus à Poupança e Segredos do Tesouro".
 
 ## 📝 Licença
