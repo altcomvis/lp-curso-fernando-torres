@@ -1,3 +1,6 @@
+import LogoB3 from '@/assets/logo-b3.webp'
+import LogoTesouro from '@/assets/logo-tesouro.webp'
+
 import { Button } from './ui/button'
 export function SectionCallToAction() {
   const handlePrice = () => {
@@ -27,6 +30,15 @@ export function SectionCallToAction() {
         >
           abra uma conta na genial e invista no tesouro para ter acesso gratuito
         </Button>
+        <div className="flex flex-col gap-4 text-center">
+          <span className="font-medium text-white font-roboto text-sm">
+            Apoio
+          </span>
+          <div className="flex gap-3 w-3/12 mx-auto justify-center">
+            <img src={LogoTesouro} alt="Logo Tesouro Direto" />
+            <img src={LogoB3} alt="Logo B3" />
+          </div>
+        </div>
       </div>
     </div>
   )
